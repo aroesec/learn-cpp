@@ -1,11 +1,7 @@
-#ifndef READNUMBER_H
-#define READNUMBER_H
+#ifndef IO_H
+#define IO_H
 int readNumber();
 
-#endif
-
-#ifndef WRITEANSWER_H
-#define WRITEANSWER_H
 void writeAnswer(int answer);
 
 #endif
