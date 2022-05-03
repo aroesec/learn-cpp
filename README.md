@@ -1,1 +1,1 @@
-# A collection of quiz answers and scratch from following https://www.learncpp.com
+# A collection of quiz answers from following https://www.learncpp.com
